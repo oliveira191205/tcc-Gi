@@ -1,0 +1,342 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Clínica Suzana Recco</title>
+		
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="icon" type="image/x-icon" href="Logo.jpeg">
+		<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+  </head>
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+
+<!-- ANIMAÇÕES 
+	TITULO= CLASS="A"
+	TEXTO= data-aos="fade-up"
+
+
+
+-->
+
+
+			<!-- Header -->
+				<div id="header">
+
+					
+
+
+					<!-- INICIO -->
+						<div class="inner">
+							<header>
+								
+								<img src="Logo.jpeg" width="200px" height="200px" > 
+							
+								<p >Clínica Suzana Recco</p>
+			<p  style="margin-top: 10%;">Bem-Vindo</p>
+			
+								
+							</header> 	
+						</div>
+
+<!------------------ NAVBAR ------------------------------------------------------------------>
+						<nav id="nav" style="font-size: x-large; ">
+							<ul>
+								<li ><a href="#equipe">Equipe</a></li>
+								
+								<li><a href="#historia">História</a></li>
+								<li><a href="#contato">Contato</a></li>
+								<li><a href="#localizacao">Localização</a></li>
+							</ul>
+						</nav>					
+
+				</div>
+
+				
+
+<!---------------------------------------------------------------------------------------------------------------------------------------->
+
+
+			
+			<!-- IMAGEM FUNCIONARIOS -->
+			
+
+
+
+			<a name="equipe"></a>
+				<section id="banner">
+					<header style="margin-top: -1%;" >
+						<h2  data-aos="fade-up"> Equipe<strong></strong></h2>
+				
+							
+							<p data-aos="fade-up">Quem irá atender você</p>
+					
+					</header>
+				</section>
+
+
+
+
+			
+
+			<section class="grid1" >
+
+				<div>
+<img src="images/fabio.jpg" data-aos="fade-up  style="max-width: 100%;  width="300px" >
+<p style="margin-top: 5%; text-align: center; font-size: larger; font-family: Arial, Helvetica, sans-serif">  Fabio</p>
+				</div>
+                <div>
+<img src="images/mayara.png" data-aos="fade-up  style="max-width: 100%;  width="300px" >
+<p style="margin-top: 5%; text-align: center; font-size: larger;  font-family: Arial, Helvetica, sans-serif" > Mayara</p>
+               </div>
+				<div>
+<img src="images/suzana.png" data-aos="fade-up style="max-width: 100%; width="300px">
+<p style="margin-top: 5%; text-align: center; font-size: larger; font-family: Arial, Helvetica, sans-serif"> Suzana</p>
+				</div>
+				<div>
+<img src="images/thaina.jpg"  data-aos="fade-up style="max-width: 100%; width="300px">
+<p style="margin-top: 5%; text-align: center; font-size: larger;  font-family: Arial, Helvetica, sans-serif"> Thaina</p>
+			    </div>	
+
+			</section>
+
+			<style>
+.grid1{
+
+display: flex;
+grid-template-columns: repeat(4, 1fr);
+margin: 0 auto;
+top: 300px;
+flex-wrap: wrap;
+text-align: center;
+padding-top: 2%;
+}
+
+.grid1 > div{
+flex: 1 1 100px;
+}
+
+
+
+
+			</style>	
+
+			
+<!---------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+			<!-- HISTORIA -->
+
+
+			<a name="espaco"></a>
+				<div class="wrapper style2"  style="min-height: 1800px; max-height: 1500px;" >
+
+
+					
+					<article id="main" class="container special" >
+						<br>
+
+
+
+
+
+
+
+
+
+
+
+						
+
+						<a name="historia"></a>
+
+						
+						<header>
+							<h2 class="a" style="margin-top: 50px;" >História</h2>
+							<p data-aos="fade-up">
+								Conheça a história da Clínica Suzana Recco
+							</p>
+						</header>
+						<p data-aos="fade-up" style="margin: 10%; font-size:larger; max-width: 100%; text-align: justify; float: left; width: 510px; padding-right: 10%; ">
+							&nbspEm 2020, durante o auge da pandemia, nasceu a Clínica Suzana Recco Fisioterapia e Pilates - um projeto apaixonante que superou todos os obstáculos para se tornar realidade. Com o objetivo de levar a terapia manual e o Pilates a um novo patamar, criamos um espaço único, dedicado ao bem-estar e à recuperação dos nossos pacientes.
+							
+						</p>
+						<div style="margin-top: 10%; padding-right: 1%;">
+							<video src="images/video.mp4 "  data-aos="fade-up" preload="auto" autoplay loop muted style="width: 400px; height: 400px; "></video>
+						</div>
+
+						<p data-aos="fade-up" style="margin: 10%; font-size:larger; max-width: 100%; text-align: justify; float: left; width: 510px; padding-right: 10%; ">
+							&nbspDesde o início, enfrentamos desafios com coragem e fé no nosso propósito. Contávamos com uma equipe de duas fisioterapeutas instrutoras de Pilates, que foram fundamentais para a nossa jornada. Hoje, estamos orgulhosos de contar com seis profissionais dedicados, empenhados em oferecer os melhores tratamentos e cuidados.
+							
+						</p>
+						
+						<div style="margin-top: 10%; padding-right: 1%; ">
+							<video src="images/video3.mp4 "  data-aos="fade-up" preload="auto" autoplay loop muted style="width: 400px; height: 400px;  "></video>
+						</div>
+
+
+
+					</article>
+
+				</div>
+<!---------------------------------------------------------------------------------------------------------------------------------------->
+
+			<!-- Features -->
+			
+				
+
+				<div class="wrapper style1">
+
+					<section id="features" class="container special">
+						<header>
+							<h2 data-aos="fade-up">Confira</h2>
+							<p data-aos="fade-up">Resultados de algumas seções de quiropraxia</p>
+						</header>
+						<div class="row">
+							<article class="col-4 col-12-mobile special">
+								<a  class="image featured"><img src="images/baixo2.jpg" alt="" /></a>
+								<header>
+									<h3  data-aos="fade-up">&nbspEstá esperando o que pra começar a viver o melhor que seu corpo pode te proporcionar?</h3>
+								</header>
+								<p data-aos="fade-up">
+									&nbspAcabe com as dores, corrija sua postura e fortaleça seus músculos com PILATES!
+								</p>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a  class="image featured"><img src="images/baixo3.jpg" alt="" /></a>
+								<header>
+									<h3 data-aos="fade-up">&nbspAquele antes e depois de um paciente de 75 anos, que chegou com muita dor.</h3>
+								</header>
+								<p data-aos="fade-up">
+									&nbspCom uma avaliação bem eficaz, identificamos a causa de seu problema e começamos o tratamento com técnicas específicas.
+								</p>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a  class="image featured"><img src="images/baixo4.jpg" alt="" /></a>
+								<header>
+									<h3 data-aos="fade-up">&nbspConseguem ver uma melhora significativa na região da cervical?</h3>
+								</header>
+								<p data-aos="fade-up">
+									&nbspEm apenas 1 sessão de quiropraxia. Quer melhorar suas dores e postura? Clique em saiba mais e agende sua sessão 
+								</p>
+							</article>
+						</div>
+					</section>
+
+				</div>
+
+
+
+
+
+				
+
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+
+						
+							
+							<!-- Photos -->
+							<header>
+								<h2 data-aos="fade-up"> Instagram</h2>
+								<p>Sempre atualizado com as notícias da clínica, novidades e atendimentos prestados </p>
+							</header>
+								
+									
+									<header>
+										<a href="https://www.instagram.com/clinicasuzanarecco/" style="" class="icon brands fa-instagram fa-3x"  ></a>
+									</header>
+                      <header>
+									<div  >
+										<a href="a"></a>
+									<video src="images/videoinsta.mp4" preload="auto" autoplay loop muted style="max-width: 100%; max-height: 100%; width: 1000px;  ">
+							
+
+
+							
+								
+									
+								</div>
+								<a name="localizacao"></a>
+								<header class="a" >
+									<h2 style=" display: inline-block; margin: 3%;" data-aos="fade-up"> localização</h2>
+							
+								</header>
+								
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3679.3350827120157!2d-50.380484290020505!3d-22.752942732303126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9495366fe7fcba4b%3A0x9383d3649414e620!2sCl%C3%ADnica%20Suzana%20Recco!5e0!3m2!1spt-BR!2sbr!4v1696526289322!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+						</header>
+
+						<hr />
+
+						<div class="row">
+							<div class="col-12">
+
+								<!-- Contact -->
+								<a name="contato"></a>
+									<section class="contact">
+										<header>
+											<h3 data-aos="fade-up">Contato</h3>
+										</header>
+										<p data-aos="fade-up">Whatsapp e instagram para contato</p>
+										<ul class="icons">
+											<li><a href="https://wa.me/5518997593946" class="icon brands fa-whatsapp fa-2x "><span class="label">fa-whatsapp</span></a></li>
+									
+											<li><a href="https://www.instagram.com/clinicasuzanarecco/" class="icon brands fa-instagram fa-2x "><span class="label">Instagram</span></a></li>
+										
+										</ul>
+									</section>
+
+								
+									
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+
+
+
+
+
+		<a aria-label="Pelo WhatsApp" href="https://wa.me/5518997593946">
+		<div class="icon brands fa-whatsapp fa-2x" id="whatsapp">
+		    <p> Agende sua consulta!</p>
+	    </div>
+		</a>
+	
+	
+		<!-- Scripts -->
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+			<script>
+			  AOS.init();
+			</script>
+			<script src="https://unpkg.com/scrollreveal@4"></script>
+			<script>
+				ScrollReveal({ duration: 1000 })
+				ScrollReveal().reveal('.a')
+		
+			</script>
+			
+	</body>
+</html>
